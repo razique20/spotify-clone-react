@@ -37,6 +37,7 @@ const DisplayHome = () => {
               image={item.image}
             />
           ))}
+
         </div>
       </div>
     </>
